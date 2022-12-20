@@ -1,8 +1,9 @@
-# Beispiel 2.10 Der erste Fehlerquelltext
-# Beispiel 2.10
-#
+#-------------------------------------------------------------
 # Der erste Fehlerquelltext
 #
+#Autor:   Dein Name
+#Datum:   Aktuelles Datum
+#-------------------------------------------------------------
 speicherplatz = input("Speicherplatz gesamt (in Gigabyte): ")
 belegt = input("Belegter Speicherplatz: ")
 
