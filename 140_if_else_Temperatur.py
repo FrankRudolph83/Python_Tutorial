@@ -20,8 +20,8 @@ else:
     print("Temperatur ist nicht ideal, Nachregelung starten")
 
     if aktuelle_temperatur < minimal:
-    print("Achtung, es ist zu kalt!")
-    print("Heizung wird eingeschaltet")
+        print("Achtung, es ist zu kalt!")
+        print("Heizung wird eingeschaltet")
     else:
-    print("Achtung, es ist zu warm!")
-    print("Heizung wird ausgeschaltet")
+        print("Achtung, es ist zu warm!")
+        print("Heizung wird ausgeschaltet")
